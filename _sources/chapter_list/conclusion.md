@@ -1,0 +1,4 @@
+# Conclusion
+Based on the results of this experiment, we can conclude that particle redistribution does not significantly affect the overall image intensity, regardless of whether white particles on a black background or black particles on a white background are used. 
+
+Fig 4 and Fig 9 indicates that the standard deviation of the delta intensity is small and within the margin of error. The consistent intensity across trials suggests that the number of particles remains constant even after redistribution. Additionally, the SIFT algorithm indicates a low number of matches between images after each redistribution, confirming that particles are randomly redistributed rather than simply shifted or concentrated in specific areas. This randomness and consistency in intensity support the hypothesis that the particle intensity remains relatively stable even after redistributions.
