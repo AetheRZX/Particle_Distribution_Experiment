@@ -1,0 +1,20 @@
+# Table of contents
+
+format: jb-book
+root: introduction
+parts:
+  - caption: Experimental Setup
+    chapters:
+      - file: chapter_list/apparatus
+      - file: chapter_list/procedure
+      - file: chapter_list/code
+
+  - caption: Result
+    chapters:
+      - file: chapter_list/white
+      - file: chapter_list/black
+
+  - caption: Conclusion & Appendix
+    chapters:
+      - file: chapter_list/conclusion
+      - file: chapter_list/appendix
